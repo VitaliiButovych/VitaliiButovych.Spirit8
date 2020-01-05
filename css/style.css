@@ -111,14 +111,7 @@ body {
 	font-family: 'MyriadPro', sans-serif;
 	padding: 0;
 	margin: 0;
-	/* text-align: center; */
 }
-/* .clearfix:after {
-	content: '';
-	display: table;
-	width: 100%;
-	clear: both;
-} */
 .shapes {
 	text-align: center;
 }
@@ -159,10 +152,6 @@ nav {
 .menu li a:hover {
 	color: #fcac45;
 }
-/* .shape1 {
-	margin-top: 20px;
-	margin-left: 563px;
-} */
 .welcome {
 	margin-top: 230px;
 	margin-left: 360px;
